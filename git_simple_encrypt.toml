@@ -1,0 +1,10 @@
+use_zstd = true
+zstd_level = 15
+crypt_list = [
+  'config/LunaTranslator/userconfig/translatorsetting.json',
+  'Browser/htu_backup',
+  'other_games/osu/osu!.lxl.cfg',
+  'config/crypto',
+  'app/bitwarden_export_20250913103306.7z',
+  'Tai/Data/data.db',
+]
